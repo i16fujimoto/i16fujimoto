@@ -13,6 +13,7 @@
 <br>
 <br>
 <br>
+<br>
     
 ## 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=i16fujimoto&theme=onedark&column=7
