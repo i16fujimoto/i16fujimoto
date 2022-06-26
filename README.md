@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 ## 💎 GitHub Stats
+## 💎 GitHub Stats
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=i16fujimoto&theme=onedark&show_icons=ture" />
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i16fujimoto&layout=compact&show_icons=true&theme=onedark" />
+</p>
 <p align="center"> 
     <a href="https://github.com/i16fujimoto">
       <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=i16fujimoto&count_private=true&show_icons=true&theme=dracula" />
