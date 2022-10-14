@@ -2,9 +2,16 @@
 
 ## 💎 GitHub Stats
 <p align="left"> 
-    <img height="170"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=i16fujimoto&count_private=true&show_icons=true&theme=nord&layout=compact&hide=html">
+    <!-- <img height="170"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=i16fujimoto&count_private=true&show_icons=true&theme=nord&layout=compact&hide=html"> -->
     <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=i16fujimoto&count_private=true&show_icons=true&theme=nord&">
-    
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
     
 ## 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=i16fujimoto&theme=onedark&column=7
