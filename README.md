@@ -2,7 +2,7 @@
 
 ## 💎 GitHub Stats
 <p align="left"> 
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=i16fujimoto&count_private=true&show_icons=true&theme=dracula" />
+    <img height="170"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=i16fujimoto&count_private=true&show_icons=true&theme=nord&layout=compact">
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i16fujimoto&layout=compact&show_icons=true&theme=onedark" />
 </p>
     
