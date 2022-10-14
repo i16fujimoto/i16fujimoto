@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 💎 GitHub Stats
+## 💎 GitHub Status
 <p align="left"> 
     <img height="170"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=i16fujimoto&count_private=true&show_icons=true&theme=nord&layout=compact">
     <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=i16fujimoto&count_private=true&show_icons=true&theme=nord">
