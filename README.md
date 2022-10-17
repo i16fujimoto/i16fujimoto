@@ -16,6 +16,7 @@
 ## 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=i16fujimoto&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=i16fujimoto&count_private=true&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🃏 GitHub Profile Summary Cards
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i16fujimoto&count_private=true&theme=nord_dark)
