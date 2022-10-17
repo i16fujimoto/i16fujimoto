@@ -17,6 +17,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=i16fujimoto&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🃏 GitHub Profile Summary Cards
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i16fujimoto&count_private=true&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i16fujimoto&count_private=true&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i16fujimoto&count_private=true&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=i16fujimoto&count_private=true&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=i16fujimoto&count_private=true&theme=nord_dark)
+
 ## 😈 Languages and Tools (As of June 27, 2022)
 
 <!-- generate by https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
