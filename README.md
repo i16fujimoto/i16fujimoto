@@ -1,4 +1,4 @@
-# Hi there 👋 I'm パセリ！
+# Hi there 👋 I'm ぱせり！
 
 ## 💎 GitHub Stats
 <p align="left"> 
