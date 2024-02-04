@@ -24,6 +24,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=i16fujimoto&count_private=true&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=i16fujimoto&count_private=true&theme=nord_dark)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=i16fujimoto)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 😈 Languages and Tools (As of June 27, 2022)
 
 <!-- generate by https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
