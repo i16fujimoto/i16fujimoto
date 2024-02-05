@@ -1,4 +1,5 @@
-# Hi there 👋 I'm ぱせり！
+# Hi there 👋
+<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hi!I'm%20Paseri!"></a>
 
 ## 💎 GitHub Stats
 <p align="left"> 
@@ -45,6 +46,3 @@ Tools I have used.
     <img src="https://skillicons.dev/icons?i=vscode,postman,grafana,discord,idea,anaconda,atom,figma,emacs,wordpress" />
   </a>
 </p>
-
-## 👀 Contribution
-<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hello%20world!"></a>
