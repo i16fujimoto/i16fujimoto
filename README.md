@@ -1,5 +1,5 @@
 # Hi there 👋
-<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hi!I'm%20Paseri!"></a>
+<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=%20Hi!%20I'm%20Paseri!%20"></a>
 
 ## 💎 GitHub Stats
 <p align="left"> 
