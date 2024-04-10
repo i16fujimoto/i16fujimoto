@@ -21,8 +21,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i16fujimoto&count_private=true&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i16fujimoto&count_private=true&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i16fujimoto&count_private=true&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=i16fujimoto&count_private=true&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=i16fujimoto&count_private=true&theme=nord_dark)
 
 ## 😈 Languages and Tools (As of Feb.2, 2024)
 
