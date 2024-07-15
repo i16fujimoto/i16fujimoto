@@ -28,13 +28,13 @@
 Particularly used technologies.
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,fastapi,docker,postgres,mysql,mongodb,aws,gcp,firebase,githubactions" />
+    <img src="https://skillicons.dev/icons?i=go,python,fastapi,docker,terraform,postgres,mysql,mongodb,aws,gcp,firebase,githubactions" />
   </a>
 </p>
 I can handle a few others.
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform,java,kotlin,c,kubernetes,django,js,css,html,nodejs,jquery,latex,linux,arduino,flutter,heroku,nginx,raspberrypi,redis" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,c,kubernetes,django,js,css,html,nodejs,jquery,latex,linux,arduino,flutter,heroku,nginx,raspberrypi,redis" />
   </a>
 </p>
 Tools I have used.
