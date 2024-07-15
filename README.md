@@ -22,7 +22,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i16fujimoto&count_private=true&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i16fujimoto&count_private=true&theme=nord_dark)
 
-## 😈 Languages and Tools (As of Feb.2, 2024)
+## 😈 Languages and Tools (As of July.15, 2024)
 
 <!-- generate by https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 Particularly used technologies.
