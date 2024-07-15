@@ -40,6 +40,6 @@ I can handle a few others.
 Tools I have used.
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,grafana,discord,idea,anaconda,atom,figma,emacs,wordpress" />
+    <img src="https://skillicons.dev/icons?i=vscode,postman,grafana,datadog,discord,idea,anaconda,atom,figma,emacs,wordpress" />
   </a>
 </p>
