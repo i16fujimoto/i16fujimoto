@@ -28,7 +28,8 @@
 Particularly used technologies.
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,fastapi,docker,terraform,postgres,mysql,mongodb,aws,gcp,firebase,githubactions" />
+    <img src="https://skillicons.dev/icons?i=go,python,fastapi,docker,terraform,react,postgres,mysql,mongodb,aws,gcp,firebase,githubactions" />
+      
   </a>
 </p>
 I can handle a few others.
