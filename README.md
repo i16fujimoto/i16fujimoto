@@ -30,9 +30,14 @@ I can handle a few others.
     <img src="https://skillicons.dev/icons?i=java,kotlin,c,kubernetes,django,js,css,html,nodejs,jquery,latex,linux,arduino,flutter,heroku,nginx,raspberrypi,redis" />
   </a>
 </p>
+
 Tools I have used.
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,postman,grafana,discord,idea,anaconda,atom,figma,emacs,wordpress" />
   </a>
 </p>
+
+## WakaTime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
