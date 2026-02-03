@@ -19,7 +19,6 @@
 
 ## 🃏 GitHub Profile Summary Cards
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i16fujimoto&count_private=true&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i16fujimoto&count_private=true&theme=nord_dark)
 
 ## 😈 Languages and Tools (As of July.15, 2024)
 
