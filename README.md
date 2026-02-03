@@ -13,12 +13,6 @@
 <br>
 <br>
 <br>
-    
-## 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=i16fujimoto&count_private=true&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🃏 GitHub Profile Summary Cards
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i16fujimoto&count_private=true&theme=nord_dark)
 
 ## 😈 Languages and Tools (As of July.15, 2024)
 
