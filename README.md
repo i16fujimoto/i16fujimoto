@@ -1,19 +1,6 @@
 # Hi there 👋
 <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=%20Hi!%20I'm%20Paseri!%20"></a>
 
-## 💎 GitHub Stats
-<p align="left"> 
-    <img height="170" align="left" src="https://i16fujimoto-readme-stats-new.vercel.app/api?username=i16fujimoto&count_private=true&show_icons=true&theme=nord&">
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ## 😈 Languages and Tools (As of July.15, 2024)
 
 <!-- generate by https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
